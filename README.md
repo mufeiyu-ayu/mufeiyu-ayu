@@ -22,10 +22,12 @@
 ## 🌟 Featured Projects
 
 ### 🔥 Project 1
-An awesome Vue.js component library with 1k+ stars
-- TypeScript based
-- 100% test coverage
-- Used by 500+ projects
+Vue3.x + Vite5.x + element-plus 现代构建框架 | lowcode 可视化搭建 可视化编辑器
+- 🛠️ 基于 Vue3.x + Vite5.x + Element-Plus 构建
+- 📦 组件库模具包开发工具
+- 🎨 可视化编辑器
+- 🚀 低代码开发框架
+- 💡 AI 智能生成
 
 ### ⚡ Project 2
 High-performance React data visualization dashboard
@@ -33,12 +35,7 @@ High-performance React data visualization dashboard
 - Support for millions of data points
 - Used by Fortune 500 companies
 
-## 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
-</div>
 
 ## 🏆 Recent Achievements
 - 🎯 Contributed to Vue.js core
