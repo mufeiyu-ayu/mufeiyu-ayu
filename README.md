@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1729970336831/6bb708b8-d105-44c6-900d-2178b2aa13d6.jpeg?w=400&h=400&fit=crop&crop=faces&w=500&h=500&fit=crop&crop=entropy&auto=compress,format&format=webp&auto=compress,format&format=webp" alt="avatar" style="border-radius: 50%"/>
+    <img src="/api/placeholder/120/120" alt="avatar" style="border-radius: 50%"/>
   
   # 👋 Hi, I'm ayu
   
