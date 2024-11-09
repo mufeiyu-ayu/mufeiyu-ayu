@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/api/placeholder/120/120" alt="avatar" style="border-radius: 50%"/>
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1729970336831/6bb708b8-d105-44c6-900d-2178b2aa13d6.jpeg?w=400&h=400&fit=crop&crop=faces&w=500&h=500&fit=crop&crop=entropy&auto=compress,format&format=webp&auto=compress,format&format=webp" alt="avatar" style="border-radius: 50%"/>
   
   # 👋 Hi, I'm ayu
   
@@ -47,10 +47,8 @@ High-performance React data visualization dashboard
 - 📚 Technical blog author
 
 ## 📫 Connect with Me
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-- 📝 Blog: [your-blog.com](https://your-blog.com)
+- 📧 Email: mufeiyu63@gmail.com
+- 📝 Blog: [ayu's blog](https://mufeiyu.hashnode.dev/)
 
 ## 🎯 2024 Goals
 - [ ] Launch 2 major open source projects
