@@ -30,18 +30,14 @@ Vue3.x + Vite5.x + element-plus 现代构建框架 | lowcode 可视化搭建 可
 - 💡 AI 智能生成
 
 ### ⚡ Project 2
-High-performance React data visualization dashboard
-- 60fps smooth rendering
-- Support for millions of data points
-- Used by Fortune 500 companies
+monorepo + workspace + turbo + Vue3.x + Vite5.x + Typescript 前端开发工具集 | 后台系统快速开发框架
+- 🔧模块化架构：基于 monorepo 和 workspace，将所有模块整合到一个仓库中，方便管理与依赖更新。
+- ⚡ 高效开发：通过 turbo 实现高效的任务运行和增量构建，提升开发效率，减少不必要的编译与打包时间。
+- 📏 统一代码规范：集成了统一的代码规范和最佳实践，保证代码质量和团队协作的一致性。
+- 🛠️ 工具函数集：封装了一系列实用的工具函数，提升开发便捷性，减少重复造轮子。
+- 🎨 组件库封装：提供了一些基础组件的封装，便于快速开发高质量的用户界面。
+- 📚 自动化文档生成：通过 API Extractor 等工具自动生成 API 文档，提升文档维护效率。
 
-
-
-## 🏆 Recent Achievements
-- 🎯 Contributed to Vue.js core
-- 🌟 Created popular open-source libraries
-- 🎓 Tech conference speaker
-- 📚 Technical blog author
 
 ## 📫 Connect with Me
 - 📧 Email: mufeiyu63@gmail.com
