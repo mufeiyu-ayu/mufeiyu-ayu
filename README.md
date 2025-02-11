@@ -21,7 +21,7 @@
 
 ## 🌟 Featured Projects
 
-### 🔥 zero-dim
+### 🔥 [zero-dim](https://github.com/zero-dim/core)
 Vue3.x + Vite5.x + element-plus 现代构建框架 | lowcode 可视化搭建 可视化编辑器
 - 🛠️ 基于 Vue3.x + Vite5.x + Element-Plus 构建
 - 📦 组件库模具包开发工具
@@ -29,7 +29,7 @@ Vue3.x + Vite5.x + element-plus 现代构建框架 | lowcode 可视化搭建 可
 - 🚀 低代码开发框架
 - 💡 AI 智能生成
 
-### ⚡ VJade
+### ⚡ [VJade](https://github.com/mufeiyu-ayu/VJade)
 monorepo + workspace + turbo + Vue3.x + Vite5.x + Typescript 前端开发工具集 | 后台系统快速开发框架
 - 🔧模块化架构：基于 monorepo 和 workspace，将所有模块整合到一个仓库中，方便管理与依赖更新。
 - ⚡ 高效开发：通过 turbo 实现高效的任务运行和增量构建，提升开发效率，减少不必要的编译与打包时间。
