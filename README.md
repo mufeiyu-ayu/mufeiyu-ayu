@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/api/placeholder/120/120" alt="avatar" style="border-radius: 50%"/>
+    <img src="https://avatars.githubusercontent.com/u/81918737?v=4" alt="avatar" style="border-radius: 50%"/>
   
   # 👋 Hi, I'm ayu
   
