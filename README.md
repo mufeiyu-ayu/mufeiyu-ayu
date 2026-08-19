@@ -7,7 +7,7 @@
 <br/><br/>
 
 <a href="https://github.com/mufeiyu-ayu">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Frontend+Engineer+%7C+%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88;Building+AI+Agents+from+scratch+%F0%9F%A4%96;Vue+%C2%B7+TypeScript+%C2%B7+NestJS+%C2%B7+pgvector;Talk+is+cheap%2C+show+me+the+code+%E2%9A%A1" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Frontend+Engineer+%26+Open+Source+Lover;Building+AI+Agents+from+scratch+%F0%9F%A4%96;Vue+%C2%B7+TypeScript+%C2%B7+NestJS+%C2%B7+pgvector;Talk+is+cheap%2C+show+me+the+code+%E2%9A%A1" alt="typing" />
 </a>
 
 <br/>
@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=ts,vue,react,nodejs,nestjs,postgres,docker,vite,tailwind,pnpm&perline=10" alt="tech stack" />
 </div>
 
-## 🌟 Featured Projects · 精选项目
+## 🌟 Featured Projects
 
 <div align="center">
 
@@ -39,20 +39,20 @@
 
 ### 🤖 [TypeScript Agent Runtime](https://github.com/mufeiyu-ayu/agent)
 
-从零手写的全栈 AI Agent 运行时 —— 不依赖 LangChain / Workflow 引擎，每一行编排逻辑都可读、可测、可审计。
+A full-stack AI agent runtime hand-built from scratch — no LangChain, no workflow engine. Every line of orchestration is readable, testable, and auditable.
 
-- ⚡ 流式对话 · 有界 Agent Loop · Tool Calling · Token 级上下文工程
-- 🔍 pgvector 混合检索（lexical + vector RRF），服务端校验的证据引用
-- 🧪 550+ 项测试（含真实 PostgreSQL / pgvector 集成测试），8 个阶段全部 Issue / PR / 双重 Review 收口
-- 🏗️ NestJS + Vue 3 + Prisma + DeepSeek + Gemini Embedding
+- ⚡ Streaming chat · bounded agent loop · tool calling · token-level context engineering
+- 🔍 Hybrid retrieval on pgvector (lexical + vector RRF) with server-validated citations
+- 🧪 550+ tests including real PostgreSQL / pgvector integration, shipped across 8 phases via Issue / PR / dual review
+- 🏗️ NestJS · Vue 3 · Prisma · DeepSeek · Gemini Embedding
 
 ### ⚡ [VJade](https://github.com/mufeiyu-ayu/VJade)
 
-monorepo + workspace + turbo + Vue3.x + Vite5.x + TypeScript 前端开发工具集 | 后台系统快速开发框架
+A monorepo frontend toolkit and rapid admin framework — turbo + workspace + Vue 3 + Vite 5 + TypeScript.
 
-- 🔧 模块化架构：monorepo + workspace 统一管理依赖与模块
-- 🚀 turbo 增量构建，工具函数集与基础组件库封装
-- 📚 API Extractor 自动化文档生成
+- 🔧 Modular monorepo architecture with unified dependency management
+- 🚀 Incremental builds via turbo, shared utilities and base component library
+- 📚 Automated API docs generation with API Extractor
 
 ## 📊 GitHub Stats
 
