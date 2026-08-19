@@ -29,10 +29,11 @@
 <div align="center">
 
 <a href="https://github.com/mufeiyu-ayu/agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mufeiyu-ayu&repo=agent&theme=tokyonight&hide_border=true" alt="agent" />
+  <img src="./assets/agent.webp" width="180" alt="TypeScript Agent Runtime" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/mufeiyu-ayu/VJade">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mufeiyu-ayu&repo=VJade&theme=tokyonight&hide_border=true" alt="VJade" />
+  <img src="./assets/vjade.svg" width="180" alt="VJade" />
 </a>
 
 </div>
