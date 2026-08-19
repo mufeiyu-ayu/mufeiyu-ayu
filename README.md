@@ -29,7 +29,7 @@
 <div align="center">
 
 <a href="https://github.com/mufeiyu-ayu/agent">
-  <img src="./assets/agent-dark.webp" width="180" alt="TypeScript Agent Runtime" />
+  <img src="./assets/agent-card.svg" width="180" alt="TypeScript Agent Runtime" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/mufeiyu-ayu/VJade">
