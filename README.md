@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&text=Hi%2C%20I'm%20Ayu%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%C2%B7%20AI%20Agent%20Developer&descSize=20&descAlignY=58" width="100%" alt="header" />
 
-<img src="./circle.png" alt="avatar" width="96" style="border-radius:50%" />
+<img src="./avatar.jpg" alt="avatar" width="96" style="border-radius:50%" />
 
 <br/><br/>
 
